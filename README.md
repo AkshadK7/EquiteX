@@ -1,4 +1,4 @@
-# Equitex
+# EquiteX
 The Complete Cryptocurrency Stock Marketing Application
 
 
